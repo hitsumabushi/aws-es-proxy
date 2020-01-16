@@ -1,0 +1,13 @@
+{
+    "list_path": "/_list",
+    "server_map": {
+        "/id001": {
+            "region": "us-west-2",
+            "host": "id001-foo.us-west-2.es.amazonaws.com"
+        },
+        "/id002": {
+            "region": "us-west-2",
+            "host":  "id002-bar.us-west-2.es.amazonaws.com"
+        }
+    }
+}
